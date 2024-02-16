@@ -1,0 +1,12 @@
+[submodule "ROS/packages/Universal_Robots_ROS_Driver"]
+	path = ROS/packages/Universal_Robots_ROS_Driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS_Driver
+[submodule "ROS/packages/handerobotiq"]
+	path = ROS/packages/handerobotiq
+	url = https://github.com/cambel/robotiq.git
+[submodule "ROS/packages/rosbridge_suite"]
+	path = ROS/packages/rosbridge_suite
+	url = https://github.com/RobotWebTools/rosbridge_suite.git
+[submodule "ROS/packages/universal_robot"]
+	path = ROS/packages/universal_robot
+	url = https://github.com/ros-industrial/universal_robot

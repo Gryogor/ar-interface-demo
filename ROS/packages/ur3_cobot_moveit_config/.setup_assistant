@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur3_cobot_description
+    relative_path: urdf/ur3e_cobot_hande_gripper.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur_robot.srdf
+  CONFIG:
+    author_name: Igor Rybalskii
+    author_email: rybalski@ut.ee
+    generated_timestamp: 1700112247
