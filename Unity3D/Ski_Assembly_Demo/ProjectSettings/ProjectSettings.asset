@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: UniversityOfTartu
-  productName: _SkiAssemblyDemo
+  productName: SkiAssemblyDemo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -628,10 +628,10 @@ PlayerSettings:
   metroPackageName: SkiAssemblyDemo
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: Assets/WSATestCertificate.pfx
-  metroCertificatePassword: Nyfda>5==
+  metroCertificatePassword: 
   metroCertificateSubject: UniversityOfTartu
   metroCertificateIssuer: UniversityOfTartu
-  metroCertificateNotAfter: 00cbe56c6b71db01
+  metroCertificateNotAfter: 802f318f8f87db01
   metroApplicationDescription: Shows robot information relative to real robot throgh
     QR code
   wsaImages: {}
@@ -650,7 +650,7 @@ PlayerSettings:
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities:
     WindowsStoreApps:
-      EnterpriseAuthentication: False
+      CodeGeneration: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -684,10 +684,10 @@ PlayerSettings:
       PointOfService: False
       RecordedCallsFolder: False
       Contacts: False
-      InternetClient: True
-      CodeGeneration: False
-      BackgroundMediaPlayback: False
       Proximity: False
+      InternetClient: True
+      BackgroundMediaPlayback: False
+      EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False
