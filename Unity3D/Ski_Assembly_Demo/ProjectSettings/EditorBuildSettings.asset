@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/StartUpConnectionSettings.unity
     guid: 424a6a6863708ae479afb83de535e260
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RobotPreviewScene.unity
     guid: 38c9dc7a93096cc4bb9653baef14cef3
+  - enabled: 1
+    path: Assets/Scenes/Round Trip Delay Scene.unity
+    guid: 7b757cd889cfa6c40bdceb03df70b2c4
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: cee32befc5b00be4997eb11dcc1bae86,
       type: 2}
