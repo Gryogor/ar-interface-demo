@@ -191,7 +191,7 @@ MonoBehaviour:
   SecondsTimeout: 10
   Serializer: 1
   protocol: 2
-  RosBridgeServerUrl: ws://192.168.142.201:9090
+  RosBridgeServerUrl: ws://172.21.218.225:9090
 --- !u!4 &406506578
 Transform:
   m_ObjectHideFlags: 0
@@ -542,7 +542,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &939327978
 SphereCollider:
   m_ObjectHideFlags: 0
